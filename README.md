@@ -70,11 +70,11 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 Homework
 
 
-* Setup a [conda virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
-* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
-	* Read my intro to [Git](slides/01_git.pdf) and be sure to come back on thursday with your very own repository called "sfdat28-lastname"
-* Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT28 team" and add your photo!
-* Introduction on how to read and write iPython notebooks [tutorial](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/intro_to_ipython_notebooks.ipynb)
+* Setup a [conda virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
+* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
+	* Read my intro to [Git](slides/01_git.pdf) and be sure to come back on monday with your very own repository called "sfdat28-lastname"<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
+* Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT28 team" and add your photo!<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
+* Introduction on how to read and write iPython notebooks [tutorial](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/intro_to_ipython_notebooks.ipynb)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 
 
 ### Class 2: Introduction to Pandas
