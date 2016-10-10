@@ -95,9 +95,9 @@ Homework
 * Go through the python class/lab work and finish any exercise you weren't able to in class
 * Make sure you have all of the repos cloned and ready to go<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 	* You should have both "sfdat28" and "sfdat28-lastname"
-* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 * Take a look at Kaggle's [Titanic competition](https://www.kaggle.com/c/titanic)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
-* I will be using a module called `tweepy` next time. 
+* I will be using a module called `tweepy` next time.<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 	* To install please type into your console `pip install tweepy`
 
 #### Resources:
