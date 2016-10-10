@@ -75,7 +75,6 @@ Homework
 	* Read my intro to [Git](slides/01_git.pdf) and be sure to come back on monday with your very own repository called "sfdat28-lastname"<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 * Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT28 team" and add your photo!<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 * Introduction on how to read and write iPython notebooks [tutorial](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/intro_to_ipython_notebooks.ipynb)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
-<<<<<<< a04a75b0829e4c81493e75cd5ac9f2bb5be2ea2e
 
 
 ### Class 2: Introduction to Pandas
@@ -94,10 +93,10 @@ Homework
 
 ####Homework
 * Go through the python class/lab work and finish any exercise you weren't able to in class
-* Make sure you have all of the repos cloned and ready to go
+* Make sure you have all of the repos cloned and ready to go<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 	* You should have both "sfdat28" and "sfdat28-lastname"
 * Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
-* Take a look at Kaggle's [Titanic competition](https://www.kaggle.com/c/titanic)
+* Take a look at Kaggle's [Titanic competition](https://www.kaggle.com/c/titanic)<img src="https://withmylittleone.com/Content/Images/CheckMark30.png">
 * I will be using a module called `tweepy` next time. 
 	* To install please type into your console `pip install tweepy`
 
