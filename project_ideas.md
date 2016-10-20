@@ -1,6 +1,6 @@
 # GA Data Science - Project Ideas
 
-### 1. CL reading (~11k articles)
+### 1. Clare Legere Reading (~11k articles)
 - http://www.clarelegere.com/profiles/1
 - Data Summary: I use the Instapaper API to pull all the articles I've read over the last 6 years into my own relational DB
 - Potential Features:
@@ -37,7 +37,7 @@
     - Why did you choose these topics?
         - I would like to see if I (a) have a balanced reading habit (politically speaking) and (b) if not, suggest content "the other side".
         
-### 3. Coach daily habits data (~6k)
+### 3. Coach Daily Habits Data (~6k)
 - https://www.coach.me/users/2f6f674caa3cf1c240ac/activity
 - Data Summary: a app in which you state daily goals and then check them off (e.g. sleep at least 7 hours, read, etc.) in csv or my own no-sql db
 - Questions:
