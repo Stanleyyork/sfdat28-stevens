@@ -16,6 +16,7 @@
         6. What's the sentiment of my reading?
         7. What other people am I similar to?
         8. Do I have balanced reading behavior (politically speaking)? - see #2 below
+        9. How are articles grouped together?
     - What data are you planning to use to answer that question?
         - See above
     - What do you know about the data so far?
