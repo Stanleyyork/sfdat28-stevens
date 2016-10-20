@@ -53,4 +53,6 @@
     - Why did you choose these topics?
         - I'm focused on self-awareness, habits and peronsal-growth.
 
-More: https://gist.github.com/Stanleyyork/4ed57cd640df35d8580f54a8b2064d77
+
+
+More Ideas: https://gist.github.com/Stanleyyork/4ed57cd640df35d8580f54a8b2064d77
