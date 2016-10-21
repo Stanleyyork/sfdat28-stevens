@@ -34,7 +34,9 @@
     - What data are you planning to use to answer that question?
         - See above
     - What do you know about the data so far?
-        - See above
+        - It's in RDB form
+        - There's a url, with one of five associated tags (left, center left, center, center right, right)
+        - The data was compiled by a combination of researchers and community sourced
     - Why did you choose these topics?
         - I would like to see if I (a) have a balanced reading habit (politically speaking) and (b) if not, suggest content "the other side".
         
@@ -49,7 +51,8 @@
     - What data are you planning to use to answer that question?
         - See above
     - What do you know about the data so far?
-        - See above
+        - There's a time/date, habit type
+        - There's not specific records for not achieving the habit (so if I might need to fill that in)
     - Why did you choose these topics?
         - I'm focused on self-awareness, habits and peronsal-growth.
 
