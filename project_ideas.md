@@ -1,6 +1,6 @@
 # GA Data Science - Project Ideas
 
-### 1. Clare Legere Reading (~11k articles)
+### 1. Clare Legere Reading (~11k articles for me, plus another 55k articles from other users)
 - http://www.clarelegere.com/profiles/1
 - Data Summary: I use the Instapaper API to pull all the articles I've read over the last 6 years into my own relational DB
 - Potential Features:
