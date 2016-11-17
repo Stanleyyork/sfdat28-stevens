@@ -30,3 +30,6 @@
 #### Communicate + Apply
 - Use model to predict 11k personal articles and another 80k articles
 - Grab other content, such as analyzing the articles that my friends post on facebook or twitter
+
+
+Presentation Format: https://docs.google.com/presentation/d/15arglxHaejGpsMsbn4sq9Agzdqm0hFaqBvmn1ZDda2w/edit?usp=sharing
